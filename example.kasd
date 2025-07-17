@@ -1,0 +1,20 @@
+// Example KASD program
+
+// Integer variable
+let age: int = 30;
+
+// Float variable
+let pi: float = 3.14159;
+
+// Boolean variables
+let is_valid: bool = true;
+let is_complete: bool = false;
+
+// String variable
+let greeting: string = "Hello, KASD!";
+
+// Null variable
+let empty: null = null;
+
+// This will cause a type error
+// let error: int = "not an integer"; 
